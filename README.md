@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Secure Messenger<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java with DSA<br>💬 Ask me about<br>⚡ Fun fact
+
+I am Ziyaul Haque pursuing software Engineering @Maharishi Markandeshwar (Deemed to be university) Passionate about coding, problem-solving, and building innovative applications. Interested in Data science , web technologies, and data structures.Currently working on projects web development using MERN Stack
+
 
 
 ## 🌐 Socials:
